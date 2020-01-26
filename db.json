@@ -1,0 +1,32 @@
+[
+{
+"id": 1,
+"product_name": "Basmati Rice",
+"brand_name": "Dawat",
+"category": "food item"
+},
+{
+"id": 2,
+"product_name": "Sun Flower Oil",
+"brand_name": "Fortune",
+"category": "Oil"
+},
+{
+"id": 3,
+"product_name": "Basmati Rice",
+"brand_name": "Dawat",
+"category": "food item"
+},
+{
+"id": 4,
+"product_name": "Cheese",
+"brand_name": "Amul",
+"category": "food item"
+},
+{
+"id": 5,
+"product_name": "Chocolate",
+"brand_name": "Cadbury",
+"category": "Sweets"
+}
+]
